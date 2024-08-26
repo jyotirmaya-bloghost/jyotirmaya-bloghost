@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jyotirmaya-bloghost
-- 👀 I’m interested in Blogging ar https://bloghost.epizy.com
-- 🌱 I’m currently learning monetization and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bloghost.epizy.com
+- 👀 I’m interested in blogging and python related works
+- 🌱 I’m currently learning python, AI and ML (also Mechanical works)
+- 📫 You can reach me at bloghost.epizy.com
 
 <!---
 jyotirmaya-bloghost/jyotirmaya-bloghost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
